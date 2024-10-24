@@ -10,9 +10,9 @@ At FAMSY, we believe in the power of collaboration and open-source development. 
 
 Here are some of our featured repositories:
 
-| Repository Name | Description | Link |
-|------------------|-------------|------|
-| **Clinic Office Frontend**   | A sveltekit dashboard for the famsy-clinic website | [View Repo](https://github.com/famsy-co/clinic-frontend) |
+| Repository Name | Description | Link | Preview |
+|------------------|-------------|------|------|
+| **Clinic Office Frontend**   | A sveltekit dashboard for the famsy-clinic website | [View Repo](https://github.com/famsy-co/clinic-frontend) | [View Preview](https://famsy-clinic-office.vercel.app)
 
 ## License
 
